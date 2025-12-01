@@ -1,1 +1,1 @@
-This is the code of AutoPromptSeg
+This is the code of AutoPromptSeg, we are still preparing checkpoints and cleaning the redundancy code, we will release train/network code and new README soon!
